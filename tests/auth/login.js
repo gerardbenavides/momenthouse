@@ -1,7 +1,6 @@
 const LoginPage = require('../../pages/login.page')
 const DashboardPage = require('../../pages/dashboard.page')
 const credentials = require('../../data/credentials');
-const dashboardPage = require('../../pages/dashboard.page');
 
 Feature('login');
 
